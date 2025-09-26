@@ -7,7 +7,7 @@ public class Main {
         SolarSystem newSystem = new SolarSystem(true, "THE Solar System");
         newSystem.getrevolve();
 
-        Planet newPlanet = new Planet("Earth");
+        Planet newPlanet = new Planet("Earth", true);
         newPlanet.attract(); 
 
     }
