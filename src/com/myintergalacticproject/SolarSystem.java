@@ -3,7 +3,7 @@ package src.com.myintergalacticproject;
 public class SolarSystem {
 
     public boolean revolve;
-    public String name
+    public String name;
 
     public SolarSystem(boolean revolve, String name) {
         this.revolve = revolve; 

@@ -8,9 +8,9 @@ public class Main {
         newSystem.getrevolve();
 
         Planet newPlanet = new Planet("Earth");
-        newPlanet.attract(); }
+        newPlanet.attract(); 
 
     }
-
+}
         
 
